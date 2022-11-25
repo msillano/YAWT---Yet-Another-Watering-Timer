@@ -16,6 +16,8 @@ See the file  [YAWT-Yet-Another-Watering-Timer.pdf](https://github.com/msillano/
 More links:
 
 - First pubblication on Instructables: https://www.instructables.com/YAWT-Yet-Another-Watering-Timer/
+- APP SmartLife for Tuya devices: https://play.google.com/store/apps/details?id=com.tuya.smartlife
 - TuyaDAEMON IOT framework: https://github.com/msillano/tuyaDAEMON
+- TuyaDAEMON advanced Watering project: https://github.com/msillano/tuyaDAEMON/wiki/derived-device-'watering_sys':-case-study
 - Info about relay board: https://github.com/msillano/tuyaDAEMON/blob/main/devices/switch-4CH/device_switch-4CH.pdf
 - Info about remote: https://github.com/msillano/tuyaDAEMON/blob/main/devices/ZigBee_3_Gang/device_ZigBee_3_Gang.pdf
