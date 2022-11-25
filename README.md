@@ -13,4 +13,9 @@ At the same time, in local, a remote control allows me to start and stop the irr
 
 See the file  [YAWT-Yet-Another-Watering-Timer.pdf](https://github.com/msillano/YAWT---Yet-Another-Watering-Timer/blob/main/YAWT-Yet-Another-Watering-Timer.pdf).
 
-First on Instructables https://www.instructables.com/YAWT-Yet-Another-Watering-Timer/
+More links:
+
+- First pubblication on Instructables: https://www.instructables.com/YAWT-Yet-Another-Watering-Timer/
+- TuyaDAEMON IOT framework: https://github.com/msillano/tuyaDAEMON
+- Info about relay board: https://github.com/msillano/tuyaDAEMON/blob/main/devices/switch-4CH/device_switch-4CH.pdf
+- Info about remote: https://github.com/msillano/tuyaDAEMON/blob/main/devices/ZigBee_3_Gang/device_ZigBee_3_Gang.pdf
