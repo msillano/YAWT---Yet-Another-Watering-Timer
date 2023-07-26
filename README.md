@@ -9,12 +9,9 @@ Each timer manages 4 zones: with 'smartLife' or with 'tuyaDeamon' I can program 
 
 ![distributor](https://github.com/msillano/YAWT---Yet-Another-Watering-Timer/blob/main/img/IMG_003.jpg?raw=true)
 
-
-
 At the same time, in local, a remote control allows me to start and stop the irrigation of each zone at any time.
 
-See the file  [YAWT-Yet-Another-Watering-Timer.pdf](https://github.com/msillano/YAWT---Yet-Another-Watering-Timer/blob/main/YAWT-Yet-Another-Watering-Timer.pdf).
-
+See the file  [YAWT-Yet-Another-Watering-Timer.pdf](https://github.com/msillano/YAWT---Yet-Another-Watering-Timer/blob/main/YAWT-Yet-Another-Watering-Timer.pdf) for HW.
 
 For details about the HTML page, see the [wiki](https://github.com/msillano/tuyaDEAMON-applications/wiki/note-3-%E2%80%90-dynamic-HTML-pages). The full code is included in [wwwdaemon.zip](https://github.com/msillano/tuyaDEAMON-applications/tree/main/daemon.energy).
 
