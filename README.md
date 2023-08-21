@@ -22,5 +22,5 @@ More links:
 - TuyaDAEMON IOT framework: https://github.com/msillano/tuyaDAEMON
 - TuyaDAEMON advanced Watering project: https://github.com/msillano/tuyaDAEMON/wiki/derived-device-'watering_sys':-case-study
 - Info about relay board: https://github.com/msillano/tuyaDAEMON/blob/main/devices/switch-4CH/device_switch-4CH.pdf
-- _note: I used a naked 4 relay board at 5 V, but now exists also a version at 220V with shell and DIN capability._
+- _note: I used a naked 4 relay board at 5 V, but now (2023) also exists a version at 220V with shell and DIN capability._
 - Info about remote: https://github.com/msillano/tuyaDAEMON/blob/main/devices/ZigBee_3_Gang/device_ZigBee_3_Gang.pdf
